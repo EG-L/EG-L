@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=LEE%20EUI%20GWANG&fontColor=FFFFFF&fontAlign=75&fontSize=50" />
 <h3 text-decoration="underline">📄 Certification </h3>
-<br>
+<hr>
 
 | 자격증 | 발급기관 | 취득일 |
 |:------:|:---:|:---:|
