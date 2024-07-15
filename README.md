@@ -8,6 +8,14 @@
 |2021.08.09~2023.06.16|Worked at Kyungwon Industry|Researcher|
 |2024.05.20~Present|Currently working at SRPOST|Web Programmer|
 
+<h3 text-decoration="underline">🏫 Training </h3>
+<hr>
+
+| 년도 | 교육과정 | 비고 |
+|:------:|:---:|:---:|
+|2021.08.04|최적화된 도구(R/Python)를 활용한 애널리스트 양성과정 수료|2021.03.11~2021.08.04 (824시간, in SDacademy)|
+|2024.04.08|AWS 클라우드를 활용한 FULL-STACK 개발자 양성과정 수료|2023.09.11~2024.04.08 (1120시간, in 쌍용강북교육센터)|
+
 <h3 text-decoration="underline">📄 Certification </h3>
 <hr>
 
