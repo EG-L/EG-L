@@ -1,4 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=LEE%20EUI%20GWANG&fontColor=FFFFFF&fontAlign=75&fontSize=50" />
+
+<h3 text-decoration="underline">👨‍💼 Employment History</h3>
+<hr>
+
+| Year | Compony | Position |
+|:------:|:---:|:---:|
+|2021.08.09~2023.06.16|Worked at Kyungwon Industry|Researcher|
+|2024.05.20~Present|Currently working at SRPOST|Web Programmer|
+
 <h3 text-decoration="underline">📄 Certification </h3>
 <hr>
 
