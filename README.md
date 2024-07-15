@@ -6,7 +6,7 @@
 | Year | Compony | Position |
 |:------:|:---:|:---:|
 |2021.08.09~2023.06.16|Worked at Kyungwon Industry|Researcher|
-|2024.05.20~Present|Currently working at SRPOST|Web Programmer|
+|2024.05.20~Present|Currently working at SRPOST|Full Stack Developer|
 
 <h3 text-decoration="underline">🏫 Training </h3>
 <hr>
