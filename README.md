@@ -1,4 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=LEE%20EUI%20GWANG&fontColor=FFFFFF&fontAlign=75&fontSize=50" />
+<p align="center">
+  <a href="https://crops-project.com">
+    <img src="https://img.shields.io/badge/Portfolio-crops--project.com-1B3C53?style=for-the-badge" />
+  </a>
+</p>
+<h3 text-decoration="underline">🔗 Links</h3>
+<hr>
+
+| 구분 | 링크 |
+|:------:|:---:|
+|Portfolio|[crops-project.com](https://crops-project.com)|
 
 <h3 text-decoration="underline">👨‍💼 Employment History</h3>
 <hr>
