@@ -4,12 +4,6 @@
     <img src="https://img.shields.io/badge/Portfolio-crops--project.com-1B3C53?style=for-the-badge" />
   </a>
 </p>
-<h3 text-decoration="underline">🔗 Links</h3>
-<hr>
-
-| 구분 | 링크 |
-|:------:|:---:|
-|Portfolio|[crops-project.com](https://crops-project.com)|
 
 <h3 text-decoration="underline">👨‍💼 Employment History</h3>
 <hr>
